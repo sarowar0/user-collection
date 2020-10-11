@@ -1,0 +1,9 @@
+.cart{
+    margin-top: 50px;
+    padding: 10px;
+}
+.cart h5{
+    text-align: center;
+    border-bottom: 1px solid lightseagreen;
+    font-weight: 700;
+}
